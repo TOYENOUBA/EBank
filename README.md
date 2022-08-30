@@ -1,4 +1,4 @@
- ##Projet DE J2EE##
+ ##Projet de J2EE APPROFONDIE##
 
  Réalisé par TOGYENOUBA RIMTEBAYE 
 
